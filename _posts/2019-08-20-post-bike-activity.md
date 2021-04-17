@@ -8,6 +8,6 @@ date: 2020-02-11
 
 ![GT Zaskar LE 1991](http://cheppys.github.io/images/gt-zaskar.jpg)
 
-![walking]({{ site.baseurl }}/images/gt-zaskar.jpg)
+<img src="{{ site.baseurl }}/images/gt-zaskar.jpg" width="100%"  />
 
 **CS**
